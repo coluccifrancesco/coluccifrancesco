@@ -2,7 +2,8 @@
 
 ## 👨🏻‍💻 About Me:
 - 🇮🇹 from Tuscany, Italy
-- 📚 I’m currently working on becoming a better Web Developer, using my studies in graphic design to create better and better UIs;
+- 🖥️ I'm a Web Developer, front-end oriented with backend knowledge, my layouts are responsive and mobile-first;
+- 📚 Currently I'm working on becoming a better Web Developer, using my studies in graphic design to create better and better UIs;
 - 🌱 At the moment I'm learning new technologies (for me) like PHP and TypeScript, while consolidating my knowledge in JavaScript and React;
 - 🎯 My goal is to become a CS student while working on every project that I can put my hands on, and giving life to my ideas too;
 - 📫 You can reach out to me on <a href="https://www.linkedin.com/in/francesco-colucci-589414290/">LinkedIn</a>.
